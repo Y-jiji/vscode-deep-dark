@@ -88,7 +88,6 @@
 				"keyword.operator.expression.infer",
 				"keyword.operator.expression.is",
 				"keyword.operator.rest",
-
 				"storage.type.accessor.get.cs",
 				"storage.type.accessor.set.cs",
 				"keyword.operator.ellipsis.go",
@@ -280,7 +279,6 @@
 				"foreground": "#859900"
 			}
 		},
-
 		{
 			"name": "Magenta",
 			"scope": [
@@ -298,7 +296,6 @@
 				"entity.other.inherited-class",
 				"variable.language.super",
 				"support.class",
-
 				"keyword.type.string.cs",
 				"keyword.type.int.cs",
 				"keyword.type.short.cs",
@@ -1971,7 +1968,6 @@
 			}
 		}
 	],
-
 	"colors": {
 		"foreground": "#d7d7d7",
 		"focusBorder": "#d7d7d7",
@@ -1981,10 +1977,10 @@
 		"activityBar.background": "#541232",
 		"activityBar.inactiveForeground": "#d7d7d7",
 		"activityBarBadge.foreground": "#d7d7d7",
-		"activityBarBadge.background": "#d33682",
+		"activityBarBadge.background": "#00141a",
 		"activityBar.border": "#00141a00",
 		"activityBar.activeBackground": "#00141a",
-		"activityBar.activeBorder": "#d33682",
+		"activityBar.activeBorder": "#00141a",
 		"activityBar.activeFocusBorder": "#278bd3",
 		"sideBar.background": "#00141a",
 		"sideBar.foreground": "#d7d7d7",
@@ -2116,11 +2112,11 @@
 		"diffEditor.border": "#e35b00",
 		"panel.background": "#0f1c23",
 		"panel.border": "#0f1c23",
-		"panelTitle.activeBorder": "#d33682",
-		"panelTitle.activeForeground": "#d33682",
+		"panelTitle.activeBorder": "#00141a",
+		"panelTitle.activeForeground": "#00141a",
 		"panelTitle.inactiveForeground": "#d7d7d7",
 		"panelSection.border": "#278bd3",
-		"badge.background": "#d33682",
+		"badge.background": "#00141a",
 		"badge.foreground": "#d7d7d7",
 		"terminal.foreground": "#d7d7d7",
 		"terminal.selectionBackground": "#25285b",
@@ -2151,7 +2147,7 @@
 		"tab.border": "#003333",
 		"tab.activeBackground": "#00141a",
 		"tab.activeBorder": "#00141a",
-		"tab.activeBorderTop": "#d33682",
+		"tab.activeBorderTop": "#00141a",
 		"tab.inactiveBackground": "#541232",
 		"tab.inactiveForeground": "#d7d7d7",
 		"tab.hoverBackground": "#003333",
@@ -2163,7 +2159,7 @@
 		"widget.shadow": "#0000005c",
 		"editorWidget.foreground": "#cccccc",
 		"editorWidget.background": "#0f1c23",
-		"editorWidget.resizeBorder": "#d33682",
+		"editorWidget.resizeBorder": "#00141a",
 		"pickerGroup.border": "#3f3f46",
 		"pickerGroup.foreground": "#278bd3",
 		"debugToolBar.background": "#0a1e24",
@@ -2220,7 +2216,7 @@
 		"peekViewTitle.background": "#0a1e24",
 		"peekViewTitleDescription.foreground": "#d7d7d7",
 		"peekViewTitleLabel.foreground": "#d7d7d7",
-		"icon.foreground": "#d33682",
+		"icon.foreground": "#00141a",
 		"sash.hoverBorder": "#002d38",
 		"checkbox.background": "#002d38",
 		"checkbox.foreground": "#d7d7d7",
